@@ -85,9 +85,14 @@
 		// call this function to set up / generate the pieces on load
 		createPuzzlePieces(0);
 
+		let node = document.getElementById("piecesBoard");
+			if (node.parentNode) {
+  		node.parentNode.removeChild(node);
+		}
+
 })();
 
-// console.log('Butt Sex');
+// console.log('It works');
 //
 // const theButton =  document.querySelector("#buttonHolder img")
 //
