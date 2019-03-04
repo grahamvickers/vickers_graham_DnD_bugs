@@ -85,10 +85,9 @@
 		// call this function to set up / generate the pieces on load
 		createPuzzlePieces(0);
 
-		let node = document.getElementById("piecesBoard");
-			if (node.parentNode) {
-  		node.parentNode.removeChild(node);
-		}
+		let d = document.getElementById("top");
+		let d_nested = document.getElementById("nested");
+		let throwawayNode = d.removeChild(d_nested);
 
 })();
 
