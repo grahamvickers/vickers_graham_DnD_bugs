@@ -7,9 +7,9 @@ Inorder to play this game, you must first download the repository to get started
 
 
 This game was built with the following programs: 
-  HTML5 - This was used to build the layout of the website
-  CSS3 -  This was used to make the nessasary design for the site
-  JavaScript - This was used to handle all of the drag and drop functions, the image reset, and the image display
+  HTML5 - This was used to build the layout of the website.
+  CSS3 -  This was used to make the nessasary design for the site.
+  JavaScript - This was used to handle all of the drag and drop functions, the image reset, and the image display.
   
   
 The authors of the site are: 
