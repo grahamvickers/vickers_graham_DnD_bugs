@@ -13,8 +13,8 @@ This game was built with the following programs:
   
   
 The authors of the site are: 
-  Trevor Van Rys - Initial Build 
-  Graham Vickers - Java Script and Design
+Trevor Van Rys - Initial Build
+Graham Vickers - Java Script and Design
   
   
 Special thanks to Trevor Van Rys and the rest of the IDP professors at Fanashawe College for teaching us the nessasary skills to acomplish this game.
