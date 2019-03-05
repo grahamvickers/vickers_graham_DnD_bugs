@@ -85,9 +85,11 @@
 		// call this function to set up / generate the pieces on load
 		createPuzzlePieces(0);
 
-		let d = document.getElementById("top");
-		let d_nested = document.getElementById("nested");
-		let throwawayNode = d.removeChild(d_nested);
+		// var puzzleBoard = node.piecesBoard;
+		//
+		// for (let i = 0; i < puzzleBoard.piecesBoard.length; i++) {
+		//   console.log(puzzleBoard.piecesBoard[i].tagName);
+		// }
 
 })();
 
